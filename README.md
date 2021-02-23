@@ -1,2 +1,1 @@
-# Automatisation_dolibarr
 # jira
